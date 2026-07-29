@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.14.260710",
   "license": "MIT",
-  "packageManager": "pnpm@11.10.0",
+  "packageManager": "pnpm@11.17.0",
   "engines": {
     "npm": "please-use-pnpm"
   },
@@ -15,7 +15,7 @@
     "package:vsix": "scripts/package-vsix.sh"
   },
   "devDependencies": {
-    "@types/node": "^26.1.1",
+    "@types/node": "^26.1.2",
     "@types/vscode": "^1.125.0",
     "@vscode/vsce": "^3.9.2",
     "typescript": "^7.0.2"
